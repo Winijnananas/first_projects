@@ -1,4 +1,8 @@
 # first_projects
-workshop GIT Winijnananas
-workshop GIT Fattt
-workshop GIT Authachai
+Team_Member
+
+Winijnananas
+
+Fattt
+
+Authachai
