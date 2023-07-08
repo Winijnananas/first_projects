@@ -1,2 +1,2 @@
 # first_projects
-workshop GIT
+workshop GIT Winijnananas
